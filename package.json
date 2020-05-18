@@ -1,0 +1,19 @@
+{
+  "name": "tibaiwan-regexp",
+  "version": "1.0.0",
+  "description": "工作常用的正则表达式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tibaiwan/tibaiwan-regexp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tibaiwan/tibaiwan-regexp/issues"
+  },
+  "homepage": "https://github.com/tibaiwan/tibaiwan-regexp#readme"
+}
